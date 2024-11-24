@@ -196,62 +196,70 @@ The default configuration is designed to work out-of-the-box. Port changes are t
 [Click here to watch the video](https://youtu.be/rGcazToU5_4?si=Ygz9fpzrBrYrd6Ex)
 
 ## Introduction of the app
-### Login Page
-- Enter the user name and password, OTP will send to your email
-<img src="appimages/loginpage.jpg" alt="Login Page" width="400" height="auto"/>
+### Reister and Login Page
+- Register as a user    
+<img src="appimages/registerpage.jpg" alt="Login Page" width="auto" height="700"/> 
+- Enter the user name and password, OTP will send to your google authenticator app  
+<img src="appimages/loginpage.jpg" alt="Login Page" width="auto" height="700"/>  
+- Password is hidden by default     
+<img src="appimages/loginpage1.jpg" alt="Login Page" width="auto" height="700"/>
 
 ### Main Page
-- You will see Four button in the Main Page
-<img src="appimages/mainpage.jpg" alt="Main Page" width="400" height="auto"/>
+- You will see Four button in the Main Page  
+<img src="appimages/mainpage.jpg" alt="Main Page" width="auto" height="700"/>
 
 #### Contact Tracing
-- System will require you to enable bluetooth before using this function
-<img src="appimages/enablebluetooth.jpg" alt="enablebluetooth" width="400" height="auto"/>
+- System will require you to enable bluetooth before using this function   
+<img src="appimages/enablebluetooth.jpg" alt="enablebluetooth" width="auto" height="700"/>
 
-#### Covid 19 Safety Guideline
-- When you press this button, we will redirect you to the Government website about the Covid 19
-<img src="appimages/safetyguide.jpg" alt="Safety Guideline" width="400" height="auto"/>
+#### Covid 19 Safety Guideline   
+- When you press this button, we will redirect you to the Government website about the Covid 19       
+<img src="appimages/safetyguide.jpg" alt="Safety Guideline" width="auto" height="700"/>
 
-### Report Health Condition
-- You can report your health status here
-<img src="appimages/reporthealth.jpg" alt="Report health" width="400" height="auto"/>
+### Report Health Condition   
+- You can report your health status here  
+<img src="appimages/reporthealth.jpg" alt="Report health" width="auto" height="700"/>
 
 ### Covid Risk Status
-- You can check your Covid Risk Status here
-<img src="appimages/riskstatus.jpg" alt="Risk Status" width="400" height="auto"/>
+- You can check your Covid Risk Status here  
+<img src="appimages/riskstatus.jpg" alt="Risk Status" width="auto" height="700"/>   
+- For detailed information click on the link in the prompt  
+<img src="appimages/riskstatus1.jpg" alt="Risk Status" width="auto" height="700"/>
 
-## Service Page
-- When you click the bottom left corner, you will reach the Service Page
-<img src="appimages/servicepage.jpg" alt="Service Page" width="400" height="auto"/>
-- In Service Page, you will see "Service Request", "Service Package", "Nearby Service" and "My Order"
+## Service Page   
+- When you click the bottom left corner, you will reach the Service Page   
+<img src="appimages/servicepage.jpg" alt="Service Page" width="auto" height="700"/> 
+- In Service Page, you will see "Service Request", "Service Package", "Nearby Service" and "My Order" 
   
-### Service Request
-- You can make different requests here
-<img src="appimages/servicerequest.jpg" alt="Service Request page" width="400" height="auto"/>
-- After you make the request, you are able to chat with the service provider
-<img src="appimages/chat.jpg" alt="Secure Chat" width="400" height="auto"/>
-- Once you agree on the terms and Price, you can click "Pay" (if you mentioned "order" in the chatroom, the "Pay" button pops up)
-<img src="appimages/placeorder.jpg" alt="Place order" width="400" height="auto"/>
-- When you click "Pay", our app will redirect you to the third-Party Payment Page
-<img src="appimages/paymentpage.jpg" alt="Payment Page" width="400" height="auto"/>
-- Successful Payment
-<img src="appimages/paymentpage2.jpg" alt="Success Payment" width="400" height="auto"/>
-- After you pay, you can see a finish button on the chatroom corresponding to the order
-<img src="appimages/finish.jpg" alt="Finish" width="400" height="auto"/>
+### Service Request  
+- You can make different requests here    
+<img src="appimages/servicerequest.jpg" alt="Service Request page" width="auto" height="700"/>  
+- You can notes while placeing the order for vendor   
+<img src="appimages/orderstate.jpg" alt="Service Request page" width="auto" height="700"/>
+- After you make the request, you are able to chat with the service provider  
+<img src="appimages/chat.jpg" alt="Secure Chat" width="auto" height="700"/>   
+- Once you agree on the terms and Price, you can click "Pay" (if you mentioned "order" in the chatroom, the "Pay" button pops up)   
+<img src="appimages/placeorder.jpg" alt="Place order" width="auto" height="700"/>   
+- When you click "Pay", our app will redirect you to the third-Party Payment Page   
+<img src="appimages/paymentpage.jpg" alt="Payment Page" width="auto" height="700"/>
+- Successful Payment    
+<img src="appimages/paymentpage2.jpg" alt="Success Payment" width="auto" height="700"/>
+- After you pay, you can see a finish button on the chatroom corresponding to the order   
+<img src="appimages/finish.jpg" alt="Finish" width="auto" height="700"/>
 
 ### Service Package
-- If you are a service provider, you can make your own service package here
-<img src="appimages/servicepackage.jpg" alt="Service Package" width="400" height="auto"/>
+- If you are a service provider, you can make your own service package here   
+<img src="appimages/servicepackage.jpg" alt="Service Package" width="auto" height="700"/>
 
 ### NearBy Service
-- You can check any nearby Service here
-<img src="appimages/nearbyservice.jpg" alt="Service NearBy" width="400" height="auto"/>
+- You can check any nearby Service here   
+<img src="appimages/nearbyservice.jpg" alt="Service NearBy" width="auto" height="700"/>
 
-### My Order
-- You can see your order here, if the project is not yet finished, it shows "on-going"
-<img src="appimages/myorder.jpg" alt="My order" width="400" height="auto"/>
-- If you click "Finish" in the corresponding chatroom of the order, it will show "Finish"
-<img src="appimages/finish2.jpg" alt="Finish Order" width="400" height="auto"/>
+### My Order      
+- You can see your order here, if the project is not yet finished, it shows "on-going"    
+<img src="appimages/myorder.jpg" alt="My order" width="auto" height="700"/>      
+- If you click "Finish" in the corresponding chatroom of the order, it will show "Finish"    
+<img src="appimages/finish2.jpg" alt="Finish Order" width="auto" height="700"/>
 
   
 
