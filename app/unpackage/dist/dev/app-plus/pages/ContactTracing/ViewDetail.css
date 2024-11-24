@@ -1,0 +1,36 @@
+
+.container[data-v-cda9416d] {
+  background-color: #f0f0f0;
+  padding: 20px;
+}
+.title-row[data-v-cda9416d] {
+  background-color: #007aff;
+  padding: 1vw 1vh;
+  height: 5vh;
+  text-align: center;
+  align-content: center;
+  font-size: 3vh;
+  font-weight: bold;
+  color: #ffffff;
+}
+.card[data-v-cda9416d] {
+  background-color: #ffffff; 
+  margin-bottom: 20px;
+  padding: 15px;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+}
+.card-header[data-v-cda9416d] {
+  font-size: 2vh;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+.card-content[data-v-cda9416d] {
+  font-size: 2vh;
+  color: #333;
+}
+.user-detail uni-text[data-v-cda9416d],
+.contact-statistic uni-text[data-v-cda9416d] {
+  display: block;
+  margin-bottom: 5px;
+}

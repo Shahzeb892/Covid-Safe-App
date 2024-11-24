@@ -1,0 +1,88 @@
+{
+	"pages": [
+		{
+			"path": "pages/tabbar/MainPage/MainPage",
+			"style": {
+				"navigationBarTitleText": "Coivd Safe"
+			}
+		},
+		{
+			"path": "pages/tabbar/HomeServicePage/HomeServicePage",
+			"style": {
+				"navigationBarTitleText": "Service Menu"
+			}
+		},
+		{
+			"path": "pages/tabbar/PersonnalPage/PersonnalPage",
+			"style": {"navigationBarTitleText": "Account Menu"}
+		},
+		{
+			"path" : "pages/UsageAgreement/UsageAgreement",
+			"style" : 
+			{
+				"navigationBarTitleText" : ""
+			}
+		},
+		{
+			"path" : "pages/PrivacyAgreement/PrivacyAgreement",
+			"style" : 
+			{
+				"navigationBarTitleText" : ""
+			}
+		},
+		{
+			"path" : "pages/ForgotPassword/ForgotPassword",
+			"style" : 
+			{
+				"navigationBarTitleText" : ""
+			}
+		},
+		{
+			"path" : "pages/Register/Register",
+			"style" : 
+			{
+				"navigationBarTitleText" : ""
+			}
+		},
+		{
+			"path" : "pages/ContactTracing/ViewDetail",
+			"style" : 
+			{
+				"navigationBarTitleText" : "Details"
+			}
+		}
+		
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	},
+	"tabBar": {
+		"borderStyle": "black",
+		"backgroundColor": "#545454",
+		"color": "#d4d4d4",
+		"selectedColor": "#f34253",
+		"list": [{
+				"pagePath": "pages/tabbar/HomeServicePage/HomeServicePage",
+				"iconPath": "static/img/tabbar/guanzhu.png",
+				"selectedIconPath": "static/img/tabbar/guanzhuactive.png",
+				"text": "Service"
+			},
+			{
+				"pagePath": "pages/tabbar/MainPage/MainPage",
+				"iconPath": "static/img/tabbar/home.png",
+				"selectedIconPath": "static/img/tabbar/homeactive.png",
+				"text": "Home"
+			},
+			{
+				"pagePath": "pages/tabbar/PersonnalPage/PersonnalPage",
+				"iconPath": "static/img/tabbar/me.png",
+				"selectedIconPath": "static/img/tabbar/meactive.png",
+				"text": "Me"
+			}
+
+		]
+	}
+}
