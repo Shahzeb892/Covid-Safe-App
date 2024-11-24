@@ -153,32 +153,33 @@ The default configuration is designed to work out-of-the-box. Port changes are t
 ## Build
 
 - Install [Hbuilder](https://www.dcloud.io/hbuilderx.html) (Test and Build apk file according to your network)
-- Run Hbuilder
-- import project from local directory
-![import project from local directory](<readmeimages/1.jpeg>)
-- select " app" folder
-![select " app" folder](readmeimages/8.jpeg)
+- Run Hbuilder    
+- import project from local directory     
+<img src="readmeimages/1.jpeg" alt="change" width="auto" height="600"/>
+- select " app" folder     
+<img src="readmeimages/8.jpeg" alt="change" width="auto" height="600"/>
 - open request/index.js
-- change ip from "const base" to your ip
-![change ip](readmeimages/6.jpeg)
-- right click at any place to open the terminal
-<img src="readmeimages/2.jpeg" alt="open terminal" width="auto" height="800"/>
-- run command "npm install"
-![npm install](readmeimages/4.jpeg)
+- change ip from "const base" to your ip     
+<img src="readmeimages/6.jpeg" alt="change" width="auto" height="600"/>
+- right click at any place to open the terminal    
+<img src="readmeimages/2.jpeg" alt="open terminal" width="auto" height="800"/>      
+- run command "npm install"           
+<img src="readmeimages/4.jpeg" alt="npm install" width="auto" height="400"/>     
 
-- Enable develop modein your Android phone
-  - please refer to following guide
+- Enable develop modein your Android phone      
+  - please refer to following guide    
 - allow USB debugging on your Android phone
 [how to allow usb debug](https://www.thecustomdroid.com/how-to-enable-usb-debugging-on-android-devices/)
 - allow install via USB on your Android phone
 - allow usb security debugging on your Android phone
 - allow verify apps over USB on your Android phone
 - Connect your Android phone to laptop using USB cable
-- Open "run" tab on Hbuilder then Click "Mobile App Playground", then " Android Run"
-![Android Run](readmeimages/5.jpeg)
+- Open "run" tab on Hbuilder then Click "Mobile App Playground", then "Android Run"
 
-- If you want to build to apk file, Click " Build" , then "App-Android/iOSp Cloud Package"
-![Build Cloud Package](readmeimages/7.jpeg)
+<img src="readmeimages/5.jpeg" alt="Android Run" width="auto" height="400"/>     
+
+- If you want to build to apk file, Click " Build" , then "App-Android/iOSp Cloud Package"      
+<img src="readmeimages/7.jpeg" alt="Build Cloud Package" width="auto" height="800"/>  
 - Select all the options shown in the picture below in red and green bases
 - Install Hbuilder app
 
